@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RoomTutorialApp</string>
+    <string name="title">Title</string>
+    <string name="quantity">Quantity</string>
+    <string name="add_item">Add Item</string>
+    <string name="button_save">Add</string>
+    <string name="empty_not_saved">Empty</string>
+</resources>
